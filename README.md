@@ -2,13 +2,13 @@
 
 ### Create error boxes, success boxes and more with ease!
 ```
-   ╔═══════════════════════╗
-   ║                       ║
-   ║   ✔  box.js Success  ║
-   ║                       ║
-   ║   It all worked!      ║
-   ║                       ║
-   ╚═══════════════════════╝
+   ╔═════════════════════════╗
+   ║                         ║
+   ║  ✔  boxer.js Success   ║
+   ║                         ║
+   ║   It all worked!        ║
+   ║                         ║
+   ╚═════════════════════════╝
 ```
 
 ```js
