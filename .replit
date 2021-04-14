@@ -1,1 +1,1 @@
-run="node test.js"
+run="node tests/test.js"
